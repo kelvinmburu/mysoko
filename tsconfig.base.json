@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@mysoko/data": ["libs/data/src/index.ts"]
+      "@mysoko/data": ["libs/data/src/index.ts"],
+      "@mysoko/ui": ["libs/ui/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
