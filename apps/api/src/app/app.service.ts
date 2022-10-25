@@ -1,4 +1,5 @@
 import { Injectable } from '@nestjs/common';
+import { Todo } from '@mysoko/data'
 
 interface Todo {
   title: string;
